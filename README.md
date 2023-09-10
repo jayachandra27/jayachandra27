@@ -2,4 +2,6 @@
 <h3 align="center">On a Continuous Quest to Generalize the Adoption of Artificial General Intelligence.</h3> 
 <h3 align="center">Quantum explorer, Data & DevOps Engineer.</h3>
 
-[![Databrakets's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC1otT3oYubDHeGsjix9LVCA)](https://www.youtube.com/channel/UC1otT3oYubDHeGsjix9LVCA)
+<h1 align="center"><a href="https://www.youtube.com/channel/UC1otT3oYubDHeGsjix9LVCA"><img src="https://youtube-stats-card.vercel.app/api?channelid=UC1otT3oYubDHeGsjix9LVCA" alt="Youtube Stats" /></a></h1>
+
+
