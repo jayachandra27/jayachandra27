@@ -3,6 +3,8 @@
 <h3 align="center">I'm on a Continuous Quest to Generalize the Adoption of Artificial General Intelligence.</h3> 
 <h3 align="center">Quantum explorer, Data & DevOps Engineer.</h3>
 
+<h3 align="center"><img src="databracket_logo.png" alt="databracket.ai portfolio logo"/><br /><br /><p><a href="https://jayachandra27.github.io/databracket.ai/">My Portfolio</a></p></h3>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"><p>"In my journey, a long path lies ahead. Much to accomplish I still have, hmm."</p><img src="https://github-readme-stats.vercel.app/api?username=jayachandra27" alt="Profile Stats" /></h3>
 
